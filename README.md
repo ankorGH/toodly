@@ -5,4 +5,4 @@ A simple todo react app. The aim of building this web app is to help me better u
 * Add local storage
 * Style it 
 
-# The project can be found [here](https://ankorgh.github.io/toodly/)
+The project can be found [here](https://ankorgh.github.io/toodly/)
