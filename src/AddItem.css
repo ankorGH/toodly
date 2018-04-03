@@ -1,0 +1,18 @@
+#add-form{
+    margin-top: 10px;
+}
+.add-input{
+    padding: 8px;
+    width: 395px;
+    float: left;
+    font-size: 18px;
+}
+.add-submit{
+    padding: 10px;
+    float: left;
+    width: 150px;
+    background-color: #44bd32;
+    font-size: 18px;
+    border: 0px;
+    color:#fff;
+}

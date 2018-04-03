@@ -1,0 +1,19 @@
+html{
+  font-size: 16px;
+  
+}
+
+body{
+  width:70%;
+  margin: 45px 15%;
+}
+.App-header{
+  text-align: center;
+  font-size: 3em;
+  font-style: italic;
+  font-family: 'Marvel', sans-serif;
+}
+
+.clear{
+  clear: both;
+}

@@ -1,0 +1,23 @@
+.todo-item{
+    width: 600px;
+}
+
+.todo-name{
+    list-style-type: none;
+    padding: 8px;
+    text-transform: capitalize;
+    width: 400px;
+    float: left;
+    color:#444;
+    font-size: 1.2rem;
+}
+
+.todo-delete{
+    padding:12px;
+    width: 150px;
+    margin-top: 1px;
+    background-color: #e84118;
+    border: 0px;
+    font-size: 18px;
+    color: #fff;
+}
